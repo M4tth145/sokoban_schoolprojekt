@@ -1,2 +1,9 @@
-# sokoban_schoolprojekt
-Programming the Game Sokoban with C++ and NCurses its the first big projekt so its not that good.
+#  Sokoban Projekt
+**by Matthias**
+
+##  Goals
+- the game Sokoban.
+- Implementation object-oriented
+- Colored game
+
+[^1] This Projekt is my first big coding Projekt. It was a part of my school's education.
